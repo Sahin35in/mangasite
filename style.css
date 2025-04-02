@@ -1,17 +1,5 @@
-/* body .grid{
-    background-color: red;
-}
-body .grid1{
-    background-color: yellow;
-}
-body .grid2{
-    background-color: green;
-    
-}
-.kapsayıcı{
-    display: grid;grid-template-columns: 100px 100px 100px;
 
-} */
+
  body{
    background-color: rgb(51, 148, 51);
     margin-top: 5%;     
