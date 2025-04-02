@@ -1,0 +1,42 @@
+/* body .grid{
+    background-color: red;
+}
+body .grid1{
+    background-color: yellow;
+}
+body .grid2{
+    background-color: green;
+    
+}
+.kapsayıcı{
+    display: grid;grid-template-columns: 100px 100px 100px;
+
+} */
+ body{
+   background-color: rgb(51, 148, 51);
+    margin-top: 5%;     
+ }
+.kapsa {
+    display: grid;
+    grid-template-columns: 207px 207px 207px;
+    column-gap: 120px;
+    justify-content: center;   
+}
+.oku {
+    display: grid;
+    grid-template-columns: 207px 207px 207px;
+    column-gap: 120px;
+    justify-content: center;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 23px;
+       
+}
+
+.s1,.s2,.s3{
+    background-color: rgb(173, 52, 52);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 15%;
+    cursor: pointer;
+}
